@@ -6,3 +6,5 @@
   3) https://repl.it/@notoriousarun/Palindrome
   4) https://repl.it/@notoriousarun/Unique-Integar-Hashmap
   5) https://repl.it/@notoriousarun/StringReversal
+  6) https://repl.it/@notoriousarun/MaxCharacter
+
