@@ -7,4 +7,5 @@
   4) https://repl.it/@notoriousarun/Unique-Integar-Hashmap
   5) https://repl.it/@notoriousarun/StringReversal
   6) https://repl.it/@notoriousarun/MaxCharacter
+  7) https://repl.it/@notoriousarun/Anagrams
 
