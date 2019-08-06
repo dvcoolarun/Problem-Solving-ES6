@@ -8,4 +8,6 @@
   5) https://repl.it/@notoriousarun/StringReversal
   6) https://repl.it/@notoriousarun/MaxCharacter
   7) https://repl.it/@notoriousarun/Anagrams
+  8) https://repl.it/@notoriousarun/Vowels
+  9) https://repl.it/@notoriousarun/ArrayChunking
 
