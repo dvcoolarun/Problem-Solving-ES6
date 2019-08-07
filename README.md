@@ -10,4 +10,6 @@
   7) https://repl.it/@notoriousarun/Anagrams
   8) https://repl.it/@notoriousarun/Vowels
   9) https://repl.it/@notoriousarun/ArrayChunking
+  10) https://repl.it/@notoriousarun/Reverse-Word
+  10) https://repl.it/@notoriousarun/Capitalization
 
